@@ -28,7 +28,7 @@ pip install numpy opencv-python pillow pycryptodome
 Execute the following command:
 
 ```bash
-python main.py
+python stegno.py
 ```
 
 ### **Encrypt a Message into an Image**
